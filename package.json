@@ -1,0 +1,20 @@
+{
+  "name": "promisify-event-bind",
+  "version": "0.1.0",
+  "description": "Bind [promisify-event] to all EventEmitter's `.on` methods",
+  "main": "index.js",
+  "repository": "laggingreflex/promisify-event-bind",
+  "author": "laggingreflex",
+  "license": "ISC",
+  "keywords": [
+    "promisify-event",
+    "promisify",
+    "promise",
+    "event",
+    "eventemitter"
+  ],
+  "files": [],
+  "dependencies": {
+    "promisify-event": "^1.0.0"
+  }
+}
